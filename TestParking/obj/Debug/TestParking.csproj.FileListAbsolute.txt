@@ -1,0 +1,7 @@
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\bin\Debug\TestParking.exe.config
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\bin\Debug\TestParking.exe
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\bin\Debug\TestParking.pdb
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\obj\Debug\TestParking.csproj.AssemblyReference.cache
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\obj\Debug\TestParking.csproj.CoreCompileInputs.cache
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\obj\Debug\TestParking.exe
+C:\Users\Hendry Priyatno\source\repos\TestParking\TestParking\obj\Debug\TestParking.pdb
